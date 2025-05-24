@@ -17,7 +17,7 @@ Yet even now from the heights of Crux, the scars of Atlas remain visible. Monstr
 # Getting Started
 
 Read the [[Rules\|Rules]].
-Create a character using [[Character Creation/Character Creation\|Character Creation]].
+Create a character using [[Character Creation/Character Creation Rules\|Character Creation Rules]] and [[Character Creation/Generating a Player Character\|Generating a Player Character]].
 
 # Links
 
