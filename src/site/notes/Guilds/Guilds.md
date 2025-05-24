@@ -31,7 +31,7 @@ Bards, Musicians, Actors, Dancers, Poets, Writers, Painters, Sculptors, Storytel
 - **Rank II:** When performing for a crowd during downtime, you can earn up to 2x the normal money.
 - **Rank III:** You gain a reputation in any city or region the guild has presence; NPC’s recognise your name or stage persona. You have a +5 bonus on the ability check to enter locations you may not have access to or have been invited to previously.
 - **Rank IV:** You may inspire social change, propaganda, or trends through your art. After a week performing or displaying work in a location, you can shift local sentiment, spreading admiration, unrest, or political pressure. (DM discretion). Once at the start of each month, the DMs will update a rumors board, and members of this guild can write any rumors they wish to add.
-- Rank V:** New members start at Rank II Loyalty.
+- **Rank V:** New members start at Rank II Loyalty.
 
 ###### Most Famous Guilds
 [[Guilds/Entertainment/The Laughing Mask\|The Laughing Mask]]
