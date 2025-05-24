@@ -6,7 +6,7 @@
 
 Over five centuries have passed since the surface of Atlas was last truly seen—obscured by ruin. A chain of world-breaking calamities shattered the great civilizations, reshaped the lands, and unleashed horrors that still roam the broken continent. Entire kingdoms crumbled in hours, swallowed by the darkness.
 
-High above the ravaged earth drifts Crux, the last sanctuary of what was once called civilization. Suspended by ancient magics and unknown machinery, this floating city shelters the remnants of Atlas’ past. Within its walls, a fragile order is preserved.
+High above the ravaged earth drifts [[Crux/Crux\|Crux]], the last sanctuary of what was once called civilization. Suspended by ancient magics and unknown machinery, this floating city shelters the remnants of Atlas’ past. Within its walls, a fragile order is preserved.
 
 In the distant past, the ancestors of Crux lowered their city and opened their gates to thousands fleeing the dying world, using vital power and resources to lift refugees into safety. Their mercy came at great cost—Crux was battered, its foundations strained, and much of its knowledge and power lost in the effort. The city survived, but it has never fully healed.
 
@@ -17,4 +17,9 @@ Yet even now from the heights of Crux, the scars of Atlas remain visible. Monstr
 # Getting Started
 
 Read the [[Rules\|Rules]].
+Create a character using [[Character Creation/Character Creation\|Character Creation]].
+
+# Lore
+
+
 
