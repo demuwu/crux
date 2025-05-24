@@ -32,9 +32,9 @@ A character sheet will be automatically generated for you by Roll20. It should a
 5. You cannot play a character that is underage for the race, you may only play adults. For example, Elves reach adulthood at the age of 100, so you cannot play elves that are younger than 100 years.
 6. Take time to get familiar with the Roll20 character sheet interface. Fill out your spells and abilities as completely as you can to avoid slowing the game down during play. Please note that you can drag spells and items from the compendium, so you don’t have to set up every individual macro.
 7. You MUST have the following settings on your Roll20 Sheet. This can be edited via the cogwheel on your Roll20 sheet in the top-right corner, underneath the box that has your Character Name, Level, Class, etc:
-	- ROLL QUERIES: Advantage Toggle
-	- WHISPER ROLLS TO GM: Whisper Toggle
-	- AUTO DAMAGE ROLL: Auto Roll Damage & Crit
-	- Check ON ADD DEX TIEBREAKER TO INITIATIVE**
+	- ROLL QUERIES: **Advantage Toggle**
+	- WHISPER ROLLS TO GM: **Whisper Toggle**
+	- AUTO DAMAGE ROLL: **Auto Roll Damage & Crit**
+	- Check ON **ADD DEX TIEBREAKER TO INITIATIVE**
 
 ![roll queries.png](/img/user/z_images/roll%20queries.png)

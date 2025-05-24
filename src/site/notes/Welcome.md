@@ -19,7 +19,9 @@ Yet even now from the heights of Crux, the scars of Atlas remain visible. Monstr
 Read the [[Rules\|Rules]].
 Create a character using [[Character Creation/Character Creation\|Character Creation]].
 
-# Lore
+# Links
 
-
+[[Waterside/Waterside\|Waterside]]
+[[Guilds/Guilds\|Guilds]]
+[[Crux/Crux\|Crux]]
 
