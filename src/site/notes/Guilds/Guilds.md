@@ -13,7 +13,7 @@ The Academics guild category encompasses those devoted to the pursuit of knowled
 
 The Bounty Hunting guild category encompasses those who make their living tracking, capturing, or eliminating specific targets—be they beasts, criminals, or other marked individuals. Driven by contracts, coin, or reputation, bounty hunters excel in precision work and dangerous pursuits. They operate on the edge of civilization, often walking a fine line between hero and mercenary.
 
-# Commerce
+## Commerce
 
 The Commerce guild category encompasses those who deal in trade, wealth, and economic power. From bustling market stalls to sprawling caravans and shadowy auction houses, members of this guild understand the flow of coin better than any battlefield tactic or arcane spell. They thrive on negotiation, logistics, and the ever-shifting balance of supply and demand.
 
