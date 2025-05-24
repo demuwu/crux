@@ -14,27 +14,15 @@ In the centuries since, survivors adapted in isolation. These migrants endured i
 
 Yet even now from the heights of Crux, the scars of Atlas remain visible. Monstrosities prowl the blighted lands. Calamities still roam across the horizon. And the world below hungers for you.
 
-# Getting Started
+# Navigation
+## Getting Started
 
 Read the [[Rules\|Rules]].
 Create a character using [[Character Creation/Character Creation Rules\|Character Creation Rules]] and [[Character Creation/Generating a Player Character\|Generating a Player Character]].
+## Lore
 
-# Links
+Atlas - The continent
 
-[[Waterside/Waterside\|Waterside]]
-This Westmarch server takes place in this district. Read all about the district here.
+[[Crux/Crux\|Crux]] - The City
 
-[[Guilds/Guilds\|Guilds]]
-The guilds of Waterside. Pick one, or none at all and contribute as much as you can. 
-
-[[Politics/Political Groups\|Political Groups]]
-Current noteworthy political figureheads/groups of Waterside.
-
-[[Crux/Crux\|Crux]]
-The torn-down, ravaged city that Waterside resides in, along with other districts that lie in wait to be re-discovered.
-
-[[Portals/Portals\|Portals]]
-Discovered and documented rifts and portals in Waterside.
-
-
-
+[[Waterside/Waterside\|Waterside]] - Where players Reside
