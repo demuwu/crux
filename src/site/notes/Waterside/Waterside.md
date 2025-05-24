@@ -17,3 +17,4 @@ At the edge of it all sits something new and heavily fortified: a [[Waterside/Po
 - [[Waterside/Sewers\|Sewers]]
 - [[Waterside/Church of Troubles\|Church of Troubles]]
 - [[Portals/Portals\|Portals]]
+- [[Waterside/Slovenly Slop\|Slovenly Slop]]
