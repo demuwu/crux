@@ -16,9 +16,16 @@ Yet even now from the heights of Crux, the scars of Atlas remain visible. Monstr
 
 # Navigation
 ## Getting Started
+*The following information are rules and important information for how the server functions mechanically, please take the time to read these links.*
 
 Read the [[Rules\|Rules]].
-Create a character using [[Character Creation/Character Creation Rules\|Character Creation Rules]] and [[Character Creation/Generating a Player Character\|Generating a Player Character]].
+Create a character using [[Server/Character Creation Rules\|Character Creation Rules]] and [[Server/Generating a Player Character\|Generating a Player Character]].
+How to join a session: [[Server/Sessions and Missions\|Sessions and Missions]].
+[[Server/Spells and Magic\|Spells and Magic]] Information.
+[[Server/Magic Items\|Magic Items]] Information.
+[[Server/Downtime\|Downtime]] Information.
+Player Character [[Server/Death\|Death]].
+[[Server/Play By Post\|Play By Post]] Guidelines.
 ## Lore
 
 Atlas - The continent
