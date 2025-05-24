@@ -10,6 +10,8 @@
 | Beta  | Major Crisis           | A widespread threat that overwhelms normal defenses. Entire districts, regions, or populations are at serious risk without immediate, large-scale intervention. |
 | Gamma | Existential Emergency  | A critical event that endangers the survival of whole cities, cultures, or ecosystems. Without extraordinary action, collapse or annihilation is likely.        |
 | Omega | Extinction-Level Event | A cataclysm from which survival is nearly impossible. Civilization, and possibly life itself, is expected to end unless the impossible occurs.                  |
+
+-----
 *This Threat Rating System is used for most, if not all Threats in Atlas and Crux. However, these are mainly applied to the [[Crux/Calamities\|Calamities]] that roam Atlas.*
 ## Weather Events
 
