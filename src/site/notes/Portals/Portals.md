@@ -7,3 +7,7 @@ Portals are mysterious rifts in space and time, remnants of the old world’s on
 These rifts could also be more than just a means of travel. They might hold the keys to the forgotten knowledge, power, allies, and resources that can in turn be used to help Crux survive and nurture hope for the future.  
 
 Given the dangerous nature of portals, fortification has become an absolute necessity. Many portals are heavily guarded, with defenses and guard posts surrounding them. With the growing number of portals being discovered and the fear of otherworldly threats, a single Paladin ensures that foreign afflictions, whether they are diseases, curses, or other forms of contamination does not spread.
+
+### Current Portals Discovered
+
+n/a

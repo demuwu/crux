@@ -10,6 +10,8 @@ The city is divided into four large sections, with only the name of them being k
 
 ##### Navigation
 - [[Crux/Districts of the Past\|Districts of the Past]]
+- Districts Now
+	- [[Waterside/Waterside\|Waterside]]
 - [[Crux/Goals\|Goals]]
 - [[Crux/Threats\|Threats]]
 - [[Crux/Calamities\|Calamities]]
