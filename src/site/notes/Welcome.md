@@ -28,9 +28,14 @@ Player Character [[Server/Death\|Death]].
 [[Server/Play By Post\|Play By Post]] Guidelines.
 ## Lore
 *The following information is lore on the general world, not necessary to read but may help when creating a character and interacting with the world in session.*
+#### Atlas
+[[Crux/Crux\|Crux]] - The City.
+- [[Crux/Districts of the Past\|Districts of the Past]]
+- [[Crux/Goals\|Goals]]
+- [[Crux/Threats\|Threats]]
+- [[Crux/Calamities\|Calamities]]
 
-Atlas - The continent
-
-[[Crux/Crux\|Crux]] - The City
-
-[[Waterside/Waterside\|Waterside]] - Where players Reside
+[[Waterside/Waterside\|Waterside]] - Where players reside.
+- [[Waterside/Factions\|Factions]]
+- [[Waterside/Events\|Events]]
+- [[Waterside/Festivals\|Festivals]]
