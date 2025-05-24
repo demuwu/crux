@@ -38,5 +38,51 @@ A character sheet will be automatically generated for you by Roll20. It should a
 	- WHISPER ROLLS TO GM: **Whisper Toggle**
 	- AUTO DAMAGE ROLL: **Auto Roll Damage & Crit**
 	- Check ON **ADD DEX TIEBREAKER TO INITIATIVE**
-
 ![roll queries.png](/img/user/z_images/roll%20queries.png)
+*(Global Modifier Fields can be used optoinally).*
+
+8. Please group all Language, Armor, and Weapon Proficiencies within one box each, instead of multiple (See example below). Separately list the individual items you receive in an equipment pack (explorer's pack etc.) in your inventory.
+![profs.png](/img/user/z_images/profs.png)
+
+9. For DM ease, for sessions please set up your display name like the example below for whichever PC you’re playing that session:
+![name example.png](/img/user/z_images/name%20example.png)
+
+Once your character is ready ping @Roster Rooster in the ⁠character-roster channel with the following information:
+1) The character's name.
+2) A screenshot of you declaring the stat rolls and then the stat rolls for the character, if you rolled.
+3) Any notes about something that a DM might find odd or that you aren't sure about, as well as a possible voucher use.
+4) What your roll20 Name is. The sheet will be added to a folder with that name.
+
+If the character is approved, proceed to step (10), if you are asked to change something, do so, then ping the Moderator who did the approval in the # ROSTER-TRACKER channel.
+
+10. Make a new thread in the # CHARACTER-ROSTER channel, or add your new character to your existing post, with the following format:
+Name:
+Roll20 Name:
+Characters:
+Name (Race, Class and Subclass, Level --)
+Guild:
+Optional: Character image, backstory or info
+
+Seasonal Character:
+Name (Race, Class and Subclass, Level --,  season --)
+
+Dead/Retired:
+Name (Race, Class and Subclass, Level --)
+
+Please keep this post up to date when your character levels.
+If a character dies or retires, denote this in some way. A section for deceased characters or a deceased tag both work well. Add a similar tag to the sheet in the main game, so they can be moved into the Departing folder of the Journal.
+
+At this point, the PC can be signed up for games.
+
+11. Whenever you level a PC, please remember to declare in the chat of the main game whether you are taking average HP or rolling for it, and do the roll in there as well, of course. Charactermancer has an option to show the Average HP in the chat, if you use that please make sure to still declare the character this is going to before you click it, since it doesn't show it otherwise.
+
+Additionally, please record on your sheet how your HP is increasing. You can either add a section for that under Features & Traits or do it on the second page. If you are simply taking average, no need to be more detailed than that, but if you roll, or increase your HP through an item/feature, make sure to record it.
+
+We are asking too that you do it retroactively when you have a few minutes - just go through the chat and record any roll for HP you might have done.
+
+If you have a character whose HP isn't at the average and we can't find such an explanation, we will assume it is wrong.
+
+12. Whenever you gain an ASI, or gain a stat increase through a different means, please add a new Feature & Trait recording this stat increase. If you are playing a race with a stat increase you can freely choose, also make a note of that.
+
+An example for how this might look is attached below, though you can of course choose a different format that makes sense to you.
+![tracking.png](/img/user/z_images/tracking.png)
