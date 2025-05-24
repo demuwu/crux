@@ -22,6 +22,19 @@ Create a character using [[Character Creation/Character Creation\|Character Crea
 # Links
 
 [[Waterside/Waterside\|Waterside]]
+This Westmarch server takes place in this district. Read all about the district here.
+
 [[Guilds/Guilds\|Guilds]]
+The guilds of Waterside. Pick one, or none at all and contribute as much as you can. 
+
+[[Politics/Political Groups\|Political Groups]]
+Current noteworthy political figureheads/groups of Waterside.
+
 [[Crux/Crux\|Crux]]
+The torn-down, ravaged city that Waterside resides in, along with other districts that lie in wait to be re-discovered.
+
+[[Portals/Portals\|Portals]]
+Discovered and documented rifts and portals in Waterside.
+
+
 
