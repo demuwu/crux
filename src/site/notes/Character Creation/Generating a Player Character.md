@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/generating-a-player-character/"}
 ---
 
-THIS PAGE IS STRICTLY FOR GENERATING A PLAYER CHARACTERS. READ [[Character Creation/Character Creation Rules\|Character Creation Rules]] FOR OTHER RESTRICTIONS AND GUIDELINES.
+#### THIS PAGE IS STRICTLY FOR GENERATING A PLAYER CHARACTERS. READ [[Character Creation/Character Creation Rules\|Character Creation Rules]] FOR OTHER RESTRICTIONS AND GUIDELINES.
 
 Starting Level: 1
 
