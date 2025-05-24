@@ -27,6 +27,7 @@ How to join a session: [[Server/Sessions and Missions\|Sessions and Missions]].
 Player Character [[Server/Death\|Death]].
 [[Server/Play By Post\|Play By Post]] Guidelines.
 ## Lore
+*The following information is lore on the general world, not necessary to read but may help when creating a character and interacting with the world in session.*
 
 Atlas - The continent
 
